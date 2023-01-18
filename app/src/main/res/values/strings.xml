@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">y20230118_YesidHuertas_NYCSchools</string>
+    <string name="school_dnn">DBN6363</string>
+    <string name="school_student_count">597</string>
+    <string name="students_count_lbl">Students Count</string>
+    <string name="school_name">Milton High</string>
+    <string name="school_name_lbl">Name</string>
+    <string name="school_website">http://miltonschool.com</string>
+    <string name="url_lbl">Url</string>
+    <string name="not_available">No available</string>
 </resources>
